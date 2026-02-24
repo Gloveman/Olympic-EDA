@@ -66,7 +66,7 @@ _# 🏅 올림픽 개최국 효과(Home Advantage) 데이터 분석
 ![Describe2.png](image/Describe2.png)
 
 ---
-
+변경예정---
 ### 4. 각 컬럼 세부 정보:
 
 #### 4-1. Name
@@ -126,6 +126,27 @@ _# 🏅 올림픽 개최국 효과(Home Advantage) 데이터 분석
 </div>
 
 #### 4-4. Height
+- 170과 180 사이에 가장 많이 분포해있음을 알 수 있다.
+- 남성 참가자가 여성 참가자의 2.5배라 그런듯 하다.
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="image/Height1.png" alt="Age Histogram" width="45%"/>
+      <br>
+      <em>[ 선수 키 분포 히스토그램 ]</em>
+    </td>
+    <td align="center">
+      <img src="image/Height2.png" alt="Age Violin Plot" width="45%"/>
+      <br>
+      <em>[ 선수 키 바이올린 플롯 ]</em>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 #### 4-5. Weight
 #### 4-6. Team
 #### 4-7. NOC
