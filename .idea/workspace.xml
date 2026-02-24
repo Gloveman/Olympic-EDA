@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4eca1fe-5988-49c3-af5f-1d26f359a811" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host_effect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/host_effect.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eda_report_hyp1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda_report_hyp1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image/Age1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image/Age2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/image/Height1.png" beforeDir="false" />
@@ -106,7 +106,7 @@
       <workItem from="1771919728980" duration="168000" />
       <workItem from="1771919923240" duration="34000" />
       <workItem from="1771919958309" duration="6181000" />
-      <workItem from="1771927748258" duration="3488000" />
+      <workItem from="1771927748258" duration="5102000" />
     </task>
     <servers />
   </component>
